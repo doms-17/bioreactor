@@ -1,5 +1,5 @@
 # Bioreactor
-Bioreactor Project: For comprehensive information about this project, please consult the `bioreactor_presentation.pdf` document.
+*Bioreactor Project:* for comprehensive information about this project, please consult the `bioreactor_presentation.pdf` document.
 A video demonstration showing the functioning of the bioreactor is available in the `bioreactor_simulation.mp4` file.
 
 ## Instructions
